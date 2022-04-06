@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog Flow Client</string>
+    <string name="dialogflow_button">dialog flow</string>
+    <string name="text">Text</string>
+</resources>
